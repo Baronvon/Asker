@@ -7,7 +7,7 @@
 
 
 void function1(){
-	printf("Group number: 33\nCreators: Daniel Dethero, Trevor Ross, and Christabel Mbaba\n\n11/12/18\nPurpose is to add, subtract, multiply, or divide these two numbers and display the results to the screen as well as a file");
+	printf("Group number: 33\n\n\n11/12/18\nPurpose is to add, subtract, multiply, or divide these two numbers and display the results to the screen as well as a file");
 }
 int function2(int pos){
 	int num;
